@@ -42,15 +42,12 @@ WCash dikembangkan untuk membantu mahasiswa:
 - Total Balance
 - Total Income
 - Total Expense
-- Saving Rate
-- Financial Insight
 
 ### 📈 Visualisasi Data
 
 - Expense by Category (Pie Chart)
 - Income by Category (Pie Chart)
 - Income vs Expense (Line Chart)
-- Daily Financial Trend
 
 ### 📄 Export PDF
 
